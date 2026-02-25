@@ -21,6 +21,7 @@ https://www.youtube.com/watch?v=fPuLnzSjPLE&list=PLasOxVbcKSa2KF0jW150CZQiy3mWrN
 
 ## Hvordan bruke
 - Må lastes ned og redigeres med egen database som referanse.
+- Til å installere prerequisites må man bruke npm install på både backend og frontend folder. 
 - Få legget til bøker og har mulighet til å oppdatere og slette bøker. 
 
 ## Hva ble brukt
